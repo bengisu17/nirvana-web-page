@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Dhurjati&family=Playfair+Display&display=swap');
+
+body{
+    background-color: grey;
+}
+
+/* Put the header at the absolute top of page. */
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 0;
+    background-color: #252525;
+    transition: background-color 0.2s ease-in-out;
+}
+
+header h6 {
+    color: #d6b729;
+    font-size: 80px;
+    text-align: center;
+    margin: 0; /* Remove margin to eliminate extra spacing. */
+}
+
+div.member_cards{
+    font-family:  'Dhurjati', sans-serif;
+}
+

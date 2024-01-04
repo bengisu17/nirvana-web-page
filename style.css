@@ -4,7 +4,6 @@ body{
     background-color: grey;
 }
 
-/* Put the header at the absolute top of page. */
 header {
     position: fixed;
     top: 0;

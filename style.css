@@ -21,11 +21,11 @@ header h6 {
     margin: 0; /* Remove margin to eliminate extra spacing. */
 }
 
-.member_cards{
+ .slider{
     font-family:  'Dhurjati', sans-serif;
 }
 
-.cards{
+.slide{
     display: flex; 
     flex-direction: row;
     align-items: stretch;
@@ -42,5 +42,7 @@ header h6 {
     display: flex;
     flex-direction: row;
     justify-content: center;
-}
+} 
 
+
+  

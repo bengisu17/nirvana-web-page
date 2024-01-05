@@ -34,8 +34,13 @@ header h6 {
     width: 300px;
 }
 
-
-
-.fa-solid fa-arrow-right{
-    float: right;
+.space{
+    width: 100px;
 }
+
+.buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+

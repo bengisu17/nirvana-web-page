@@ -34,6 +34,8 @@ header h6 {
     width: 300px;
 }
 
-.forward{
 
+
+.fa-solid fa-arrow-right{
+    float: right;
 }

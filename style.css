@@ -23,15 +23,18 @@ header h6 {
 
  .slider{
     font-family:  'Dhurjati', sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 .slide{
+    height: 400px;
+    width: 300px;
     display: flex; 
     flex-direction: row;
     align-items: stretch;
     margin-top: 10rem;
-    height: 400px;
-    width: 300px;
 }
 
 .space{

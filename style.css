@@ -23,6 +23,27 @@ header h6 {
     margin: 0; /* Remove margin to eliminate extra spacing. */
 }
 
+.header {
+    display: flex;
+ 
+    align-items: center;
+};
+
+.nav-list{
+    padding: 0 10px;
+    display: flex;
+
+
+    white-space: nowrap;
+}
+
+.nav-list li{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+
  .slider{
     font-family:  'Dhurjati', sans-serif;
     display: flex;
